@@ -1,0 +1,6 @@
+C:\Users\aferg\Documents\Visual Studio 2013\Basic13\bin\Debug\Basic13.exe.config
+C:\Users\aferg\Documents\Visual Studio 2013\Basic13\obj\Debug\Basic13.csprojResolveAssemblyReference.cache
+C:\Users\aferg\Documents\Visual Studio 2013\Basic13\bin\Debug\Basic13.exe
+C:\Users\aferg\Documents\Visual Studio 2013\Basic13\bin\Debug\Basic13.pdb
+C:\Users\aferg\Documents\Visual Studio 2013\Basic13\obj\Debug\Basic13.exe
+C:\Users\aferg\Documents\Visual Studio 2013\Basic13\obj\Debug\Basic13.pdb
